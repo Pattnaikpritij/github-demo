@@ -1,3 +1,3 @@
-# github-demo
+# Github-demo
 This is my first Github Repository.
 Author - pattnaikpritij

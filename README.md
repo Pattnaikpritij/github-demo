@@ -1,4 +1,4 @@
 # Github-demo
 This is my first Github Repository.
 <br>
-Author - pattnaikpritij
+Author - pattnaik_pritij
